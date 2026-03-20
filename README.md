@@ -34,8 +34,8 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohmamed73&show_icons=true&theme=default" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohmamed73" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-abdulaziz7&show_icons=true&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-abdulaziz7" />
 </p>
 
 <hr>
@@ -83,10 +83,10 @@
 
 <p align="center">
   <a href="https://github.com/mohamed-abdulaziz7/QA-Testing-Samples.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohmamed73&repo=QA-Testing-Samples" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-abdulaziz7&repo=QA-Testing-Samples" />
   </a>
-  <a href="https://github.com/Mohmamed73/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohmamed73&repo=project2" />
+  <a href="https://github.com/mohamed-abdulaziz7/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-abdulaziz7&repo=project2" />
   </a>
 </p>
 
