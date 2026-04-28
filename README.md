@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  📍 Giza, Egypt
+  📍 Cairo, Egypt
 </p>
 
 <hr>
